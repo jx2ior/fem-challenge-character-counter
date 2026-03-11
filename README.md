@@ -24,12 +24,35 @@ After importing, review the app and publish it if needed.
 - Responsive layout techniques
 - UI logic implemented with Power Fx
 
+---
+
+## 🖼 Screenshots
+
+- Work in progress
+
+---
+
+## 📊 Features
+
+- Counts characters, words, and sentences
+- Option to include or exclude spaces
+- Character limit with warning
+- Estimated reading time
+- Letter frequency chart
+- Multiple color themes
+- Fully keyboard accessible
+- Responsive layout for all device sizes
+
+---
+
 ## 🎯 Challenge Source
 
 This project is based on a challenge from Frontend Mentor.  
 Frontend Mentor provides real-world front-end challenges that help developers improve their coding and UI skills.
 
 https://www.frontendmentor.io/
+
+---
 
 ## ⚠️ Notes
 
@@ -40,3 +63,5 @@ Depending on your environment, you may need to reconfigure data sources or conne
 ## 👨‍💻 Author
 
 Created as part of my learning process and experimentation with building front-end style applications using Power Apps Canvas.
+
+---
