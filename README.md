@@ -1,7 +1,6 @@
-# Frontend Mentor Challenge – Power Apps Canvas
+# Frontend Mentor Challenge – Character counter
 
-This project is my implementation of a coding challenge from Frontend Mentor, recreated using Microsoft Power Apps Canvas.  
-The goal is to reproduce front-end functionality, UI behavior, and responsive layouts within the Power Platform low-code environment.
+Power Apps Canvas application for text analysis that counts characters, words, and sentences, allows including or excluding spaces, lets users set a character limit with warnings, estimates reading time, and displays a letter frequency chart. It supports color themes, keyboard navigation, and responsive layouts.
 
 ## 🚀 Getting Started
 
