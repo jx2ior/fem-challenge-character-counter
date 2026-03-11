@@ -1,17 +1,43 @@
-# frontendmentor challenge character counter
-Power Apps Canvas application for text analysis that counts characters, words, and sentences, allows including or excluding spaces, lets users set a character limit with warnings, estimates reading time, and displays a letter frequency chart. It supports color themes, keyboard navigation, and responsive layouts.
+# Frontend Mentor Challenge – Power Apps Canvas
 
-## Importing the Power Apps application
+This project is my implementation of a coding challenge from Frontend Mentor, recreated using Microsoft Power Apps Canvas.  
+The goal is to reproduce front-end functionality, UI behavior, and responsive layouts within the Power Platform low-code environment.
 
-This project includes the Power Apps Canvas application exported as an `.msapp` file.
+## 🚀 Getting Started
 
-To import the app:
+This repository contains the Power Apps Canvas application exported as an `.msapp` file.
 
-1. Go to **https://make.powerapps.com**
-2. Select your environment.
-3. Click **Apps** in the left menu.
-4. Choose **Import canvas app**.
+### Import the app
+
+1. Go to https://make.powerapps.com
+2. Select your **environment**.
+3. Open **Apps** from the left navigation.
+4. Click **Import canvas app**.
 5. Upload the `.msapp` file from this repository.
-6. The app will open in **Power Apps Studio**, where you can review or publish it.
+6. The application will open in **Power Apps Studio**.
 
-> Note: You may need to update data sources or connections depending on your environment.
+After importing, review the app and publish it if needed.
+
+## 🧩 Technologies Used
+
+- Power Apps Canvas
+- Microsoft Power Platform
+- Responsive layout techniques
+- UI logic implemented with Power Fx
+
+## 🎯 Challenge Source
+
+This project is based on a challenge from Frontend Mentor.  
+Frontend Mentor provides real-world front-end challenges that help developers improve their coding and UI skills.
+
+https://www.frontendmentor.io/
+
+## ⚠️ Notes
+
+Depending on your environment, you may need to reconfigure data sources or connections after importing the app.
+
+---
+
+## 👨‍💻 Author
+
+Created as part of my learning process and experimentation with building front-end style applications using Power Apps Canvas.
