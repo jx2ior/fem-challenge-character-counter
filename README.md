@@ -28,11 +28,9 @@ After importing, review the app and publish it if needed.
 
 ## 🖼 Screenshots
 
-<p align="center">
-  <img src="screenshots/desktop-design.png" height="400" />
-  <img src="screenshots/tablet-design.png" height="400" />
-  <img src="screenshots/phone-design.png" height="400" />
-</p>
+| Desktop Design | Tablet Design | Phone Design |
+|---------------|--------------|--------------|
+| <img src="screenshots/desktop-design.png" height="400"/> | <img src="screenshots/tablet-design.png" height="400"/> | <img src="screenshots/phone-design.png" height="400"/> |
 
 ---
 
