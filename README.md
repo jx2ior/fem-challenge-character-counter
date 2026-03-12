@@ -28,7 +28,11 @@ After importing, review the app and publish it if needed.
 
 ## 🖼 Screenshots
 
-- Work in progress
+<p align="center">
+  <img src="screenshots/desktop-design.png" width="30%" />
+  <img src="screenshots/tablet-design.png" width="30%" />
+  <img src="screenshots/phone-design.png" width="30%" />
+</p>
 
 ---
 
