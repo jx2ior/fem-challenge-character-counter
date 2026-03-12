@@ -30,8 +30,14 @@ After importing, review the app and publish it if needed.
 
 <p align="center">
   <img src="screenshots/desktop-design.png" height="400" />
+  <em>Desktop Design</em>
+</p>
+<p align="center">
   <img src="screenshots/tablet-design.png" height="400" />
+  <em>Tablet Design</em>
+<p align="center">
   <img src="screenshots/phone-design.png" height="400" />
+  <em>Phone Design</em>
 </p>
 
 ---
