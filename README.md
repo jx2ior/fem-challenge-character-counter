@@ -1,3 +1,9 @@
+![Power Apps Canvas](https://img.shields.io/badge/Power%20Apps-Canvas-742774?logo=powerapps&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-107C10?logo=microsoft&logoColor=white)
+![Low Code](https://img.shields.io/badge/Approach-Low%20Code-00A88F)
+![Responsive](https://img.shields.io/badge/Layout-Responsive-blue)
+
+
 # Frontend Mentor Challenge – Character counter
 
 Power Apps Canvas application for text analysis that counts characters, words, and sentences, allows including or excluding spaces, lets users set a character limit with warnings, estimates reading time, and displays a letter frequency chart. It supports color themes, keyboard navigation, and responsive layouts.
